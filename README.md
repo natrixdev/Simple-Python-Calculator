@@ -1,6 +1,8 @@
 # Simple-Python-Calculator
 Program make a simple calculator
 
+## Check [wiki](https://github.com/natrixdev/Simple-Python-Calculator/wiki) for more details.
+
 Output
 ```
 Select operation.
